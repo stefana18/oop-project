@@ -1,0 +1,14 @@
+﻿  main.cpp
+  money.cpp
+  produs.cpp
+  repo.cpp
+  repoFile.cpp
+  service.cpp
+C:\Users\Stefana\source\repos\lab9OOP\service.cpp(161,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Stefana\source\repos\lab9OOP\service.cpp(179,15): warning C4018: '<': signed/unsigned mismatch
+  teste.cpp
+  ui.cpp
+C:\Users\Stefana\source\repos\lab9OOP\ui.cpp(132,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Stefana\source\repos\lab9OOP\ui.cpp(197,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  lab9OOP.vcxproj -> C:\Users\Stefana\source\repos\lab9OOP\Debug\lab9OOP.exe
